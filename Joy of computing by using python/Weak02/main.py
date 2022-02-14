@@ -31,4 +31,11 @@
 # print("Your name is :", user_input)
 
 
-# Discount Calculation.
+# check the difference between below code.
+user_input = input("Enter any number : ")
+print(user_input * 10)
+print(user_input + "10")
+
+user_input = int(user_input)
+print(user_input*10)
+print(user_input + 10)
