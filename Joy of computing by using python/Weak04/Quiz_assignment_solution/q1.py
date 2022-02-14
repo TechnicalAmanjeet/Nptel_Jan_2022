@@ -5,7 +5,7 @@ import random
 
 A = string.ascii_letters
 
-n = int(input())
+n = int(input(" enter number : "))
 
 for i in range(n):
     L = []
