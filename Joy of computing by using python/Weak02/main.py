@@ -27,5 +27,8 @@
 
 # ******** taking input from user. ********
 
-user_input = input("write your name : ")
-print("Your name is :", user_input)
+# user_input = input("write your name : ")
+# print("Your name is :", user_input)
+
+
+# Discount Calculation.
