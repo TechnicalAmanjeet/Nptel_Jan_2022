@@ -62,4 +62,4 @@ while num <= 10:
     print(num)
     num += 1
 
-
+print("******* Done with weak 2 **********")
