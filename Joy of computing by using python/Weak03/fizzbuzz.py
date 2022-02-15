@@ -11,14 +11,30 @@
 # ******** Code starts from here **********
 user_input = int(input("Enter a Number : "))  # R1
 
-for num in range(1, user_input+1):  # R2
-    print((str(num) + " : "), end=" ")  # R3
+# for num in range(1, user_input+1):  # R2
+#     print((str(num) + " : "), end=" ")  # R3
+#
+#     if num % 3 == 0 and num % 5 == 0:
+#         print("FizzBuzz")
+#     elif num % 3 == 0:
+#         print("Fizz")
+#     elif num % 5 == 0:
+#         print("Buzz")
+#     else:
+#         print(num)
 
-    if num % 3 == 0 and num % 5 == 0:
-        print("FizzBuzz")
-    elif num % 3 == 0:
-        print("Fizz")
+# improved time complexity
+for num in range(1, user_input+1):  # R2
+    # print((str(num) + " : "), end=" ")  # R3
+
+    if num % 3 == 0:
+        print("Fizz", end="")
+        if num % 5 == 0:
+            print("Buzz", end="")
+        print()
     elif num % 5 == 0:
         print("Buzz")
     else:
         print(num)
+
+
