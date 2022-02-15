@@ -62,3 +62,9 @@ myList1 = ["Amanjeet", "Ram", "Riya", "Kajal"]
 
 # ****** 5. FizzBuzz game => will do in separate file. ********
 
+# ****** crowd computing =>
+# explore => statics library => calculate mean, avg and median.
+# explore => scipy library => to calculate trim mean.
+# explore => matplotlib library => to plot chart of any sort of data.
+
+
