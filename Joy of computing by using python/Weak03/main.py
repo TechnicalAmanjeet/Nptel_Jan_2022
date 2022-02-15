@@ -48,15 +48,17 @@ myList1 = ["Amanjeet", "Ram", "Riya", "Kajal"]
 
 # ******* 4. Slicing ***********
 
-print(myList1[:])  # default value => mylist1[:] == mylist1 => True
-print(myList1 == myList1[:])
+# print(myList1[:])  # default value => mylist1[:] == mylist1 => True
+# print(myList1 == myList1[:])
+#
+# # slicing syntax => list[start_index : end_index + 1]
+# # by using above syntax we will return a list which start from start_index element and goes till the end index element
+# first_3_element = myList1[:3]  # print first 3 element of list
+# print(first_3_element)
+#
+# last_3_element = myList1[len(myList1)-3 : ]
+# # print(myList1)
+# print(last_3_element)
 
-# slicing syntax => list[start_index : end_index + 1]
-# by using above syntax we will return a list which start from start_index element and goes till the end index element
-first_3_element = myList1[:3]  # print first 3 element of list
-print(first_3_element)
-
-last_3_element = myList1[len(myList1)-3 : ]
-# print(myList1)
-print(last_3_element)
+# ****** 5. FizzBuzz game => will do in separate file. ********
 
