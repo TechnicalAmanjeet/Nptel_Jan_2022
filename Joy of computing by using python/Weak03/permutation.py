@@ -1,15 +1,22 @@
 import itertools
 import random
 
+# idea is to make word jumbled game.
+
+
+# def make_permutation(question):
+#     choice = 0
+#     length = len(question)
+# 
+#     for permutation in itertools.permutations(question):
+#         choice += 1
+#         if choice == length:
+#             return permutation
+
 
 def make_permutation(question):
-    choice = 0
-    length = len(question)
-
-    for permutation in itertools.permutations(question):
-        choice += 1
-        if choice == length:
-            return permutation
+    output = random.sample(question, len(question))
+    return "".join(output)
 
 
 def play():
@@ -25,7 +32,8 @@ def play():
     while True:
         print()
         if game_turn % 2 == 0:  # that means player1 turn and player2 to answer.
-            question = input(f"Enter a word ( by {player1} ) : ").lower()  # here we can pick word randomly from a wordlist
+            question = input(f"Enter a word ( by {player1} ) : ").lower()  # here we can pick word randomly
+            # from a wordlist
             question_permutation = make_permutation(question)  # this function will return one of the permutation of
             # word
             print(question_permutation)
@@ -57,8 +65,8 @@ def play():
             break
 
 
+# print(make_permutation("Amanjeet"))
 play()
-
 
 # ******* rough work ********
 # name = "cut"
