@@ -44,7 +44,7 @@ public class Main {
 //        cuboid.volume();  // calling volume method of cuboid.
 
         // circle class starts.
-        System.out.println("Circle class : ");
+        System.out.println("Circle class =>  ");
         Circle circle1 = new Circle(0, 0, 10);  // create an object of class circle and set the attribute value
         // by using constructor.
 
@@ -56,5 +56,18 @@ public class Main {
         // calling diff. methods of circle class.
         circle1.perimeter();   // calling perimeter attributes.
         circle1.area();  // calling area method.
+
+        // cuboid class starts from here.
+        System.out.println("Cuboid class =>  ");
+
+        Cuboid cuboid = new Cuboid(10, 12, 15); // created an object of type cuboid and set their attribute by using constructor.
+        // print all attributes of cuboid.
+        System.out.println("Length of cuboid : " + cuboid.length);
+        System.out.println("width of cuboid : " + cuboid.width);
+        System.out.println("height of cuboid : " + cuboid.height);
+
+        // call diff. attributes of class cuboid.
+        cuboid.surface_area(); // calling surface area method.
+        cuboid.volume(); // calling volume method.
     }
 }
