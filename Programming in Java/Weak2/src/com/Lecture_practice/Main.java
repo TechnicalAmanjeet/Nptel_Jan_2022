@@ -15,7 +15,7 @@ public class Main {
 //        // printing attributes of obj circle1.
 //        System.out.println("Center of circle1 is " + circle1.xcor + " , " + circle1.ycor);
 //        circle1.area(); // calling area() method of circle.
-//        circle1.perimeter(); // calling perimeter() method of circle.
+//        circle1.circumference(); // calling perimeter() method of circle.
 
 //        Circle circle2 = new Circle(); // created 2nd obj of class Circle.
 //        circle2.xcor = 1; // set xcor of circle 2 to 1.
@@ -25,7 +25,7 @@ public class Main {
 //        // printing attributes of obj circle2.
 //        System.out.println("Center of circle2 is " + circle2.xcor + " , " + circle2.ycor);
 //        circle2.area(); // calling area method of circle2 obj.
-//        circle2.perimeter(); // calling perimeter method of circle2 obj.
+//        circle2.circumference(); // calling perimeter method of circle2 obj.
 //
 //        // double perimeter = 22/7 * 7 * 2;
 //        // System.out.println(perimeter);
@@ -54,7 +54,7 @@ public class Main {
         System.out.println("Radius of circle : " + circle1.r);
 
         // calling diff. methods of circle class.
-        circle1.perimeter();   // calling perimeter attributes.
+        circle1.circumference();   // calling perimeter attributes.
         circle1.area();  // calling area method.
 
         // cuboid class starts from here.
