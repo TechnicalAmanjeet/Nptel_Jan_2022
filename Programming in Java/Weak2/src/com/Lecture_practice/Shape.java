@@ -18,6 +18,24 @@ class Circle{
 
 }
 
+class Cuboid{
+    double length, width, height;  // defined l, w and h of Cuboid class.
+
+    void surface_area(){
+        // print surface area of cuboid.
+        double l = this.length, w = this.width, h = this.height;
+        double surface_area = 2 * ( l*w + w*h + h*l);
+        System.out.println("Surface Area of cuboid is : " + surface_area);
+    }
+
+    void volume(){
+        // print volume of cuboid.
+        double l = this.length, w = this.width, h = this.height;
+        double volume = l * w * h;
+        System.out.println("Volume of cuboid : " + volume);
+    }
+}
+
 public class Shape {
     public static void main(String[] args) {
         // create new obj of class Circle.
