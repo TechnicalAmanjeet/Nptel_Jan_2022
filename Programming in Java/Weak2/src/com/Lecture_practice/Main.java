@@ -43,5 +43,18 @@ public class Main {
 //        cuboid.surface_area();  // calling surface_area method of cuboid.
 //        cuboid.volume();  // calling volume method of cuboid.
 
+        // circle class starts.
+        System.out.println("Circle class : ");
+        Circle circle1 = new Circle(0, 0, 10);  // create an object of class circle and set the attribute value
+        // by using constructor.
+
+        // print the attribute value of circle class.
+        System.out.println("Xcor of circle : " + circle1.xcor);
+        System.out.println("Ycor of circle : " + circle1.ycor);
+        System.out.println("Radius of circle : " + circle1.r);
+
+        // calling diff. methods of circle class.
+        circle1.perimeter();   // calling perimeter attributes.
+        circle1.area();  // calling area method.
     }
 }
