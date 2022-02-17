@@ -10,10 +10,10 @@ class Circle{
         this.r = r;
     }
 
-//    Circle(double x, double r){
-//        this.xcor = this.ycor = x;
-//        this.r = r;
-//    }
+    Circle(double x, double r){
+        this.xcor = this.ycor = x;
+        this.r = r;
+    }
 
     void area(){
         // Print Area of Circle
@@ -38,14 +38,14 @@ class Cuboid{
         this.height = h;
     }
 
-//    Cuboid(double l, double h){
-//        this.length = this.width = l;
-//        this.height = h;
-//    }
-//
-//    Cuboid(double l){
-//        this.length = this.height = this.width = l;
-//    }
+    Cuboid(double l, double h){
+        this.length = this.width = l;
+        this.height = h;
+    }
+
+    Cuboid(double l){
+        this.length = this.height = this.width = l;
+    }
 
     void surface_area(){
         // print surface area of cuboid.
