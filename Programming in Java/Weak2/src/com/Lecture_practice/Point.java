@@ -29,11 +29,11 @@ public class Point {
         System.out.println("Distance b/w point p1 and p2 : " + distance + " unit.");
     }
 
-//    void distance(Point p){
-//        double distance = Math.sqrt(p.x * p.x + p.y * p.y);
-//        p.show_attributes();
-//        System.out.println("The distance from origin to p is "+ distance + " units.");
-//    }
+    void distance(Point p){
+        double distance = Math.sqrt(p.x * p.x + p.y * p.y);
+        p.show_attributes();
+        System.out.println("The distance from origin to p is "+ distance + " units.");
+    }
 
     void show_attributes(){
         // will display all the attributes of this class.
