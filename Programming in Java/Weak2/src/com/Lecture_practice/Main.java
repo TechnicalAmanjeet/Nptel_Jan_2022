@@ -69,5 +69,18 @@ public class Main {
         // call diff. attributes of class cuboid.
         cuboid.surface_area(); // calling surface area method.
         cuboid.volume(); // calling volume method.
+
+        // Point class
+        System.out.println("Point Class =>  ");
+        Point p1 = new Point(0, 0); // creating an obj and setting its attributes value by using constructor
+        System.out.println("Attributes of p1 : ");
+        p1.show_attributes(); // will show all the attributes of p1 obj.
+
+        Point p2 = new Point(1,1); // creating an obj and setting its attributes values by using constructor.
+        System.out.println("Attributes of p2 : ");
+        p2.show_attributes(); // will show all the attributes of p2 obj.
+
+        // print distance b/w point p1 and p2.
+        Point.distance(p1, p2);
     }
 }
