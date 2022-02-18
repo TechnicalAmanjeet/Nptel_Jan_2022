@@ -1,4 +1,4 @@
-package com.Amanjeet;
+package com.Programming_Assignment;
 
 import java.util.Scanner;
 class Question {  //Define a class Question with two elements e1 and e2.

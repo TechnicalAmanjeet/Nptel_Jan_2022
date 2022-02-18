@@ -1,6 +1,6 @@
-package com.Amanjeet;
+package com.Programming_Assignment;
 
-public class weak3_pa_1 {
+public class Weak3_pa_1 {
 
     class Point{
         double x,y;

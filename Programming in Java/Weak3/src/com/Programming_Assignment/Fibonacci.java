@@ -1,4 +1,5 @@
-package com.Amanjeet;
+package com.Programming_Assignment;
+
 import java.util.Scanner;
 public class Fibonacci {
 
