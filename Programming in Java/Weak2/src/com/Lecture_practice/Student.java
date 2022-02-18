@@ -8,11 +8,12 @@ public class Student {
     Student(int roll_number, String first_name, String last_name, String course){
         this.roll_number = roll_number;
         this.first_name = first_name;
+        this.last_name = last_name;
         this.course = course;
     }
 
-    Student(int roll_number, String first_name,String last_name, String course, float fee){
-        new Student(roll_number,first_name, last_name, course); // calling the above constructor.
+    Student(int roll, String first,String last, String course, float fee){
+        this(roll,first, last, course); // calling the above constructor.
         this.fee = fee;
     }
 

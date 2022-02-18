@@ -43,44 +43,54 @@ public class Main {
 //        cuboid.surface_area();  // calling surface_area method of cuboid.
 //        cuboid.volume();  // calling volume method of cuboid.
 
-        // circle class starts.
-        System.out.println("Circle class =>  ");
-        Circle circle1 = new Circle(0, 0, 10);  // create an object of class circle and set the attribute value
-        // by using constructor.
+//        // circle class starts.
+//        System.out.println("Circle class =>  ");
+//        Circle circle1 = new Circle(0, 0, 10);  // create an object of class circle and set the attribute value
+//        // by using constructor.
+//
+//        // print the attribute value of circle class.
+//        System.out.println("Xcor of circle : " + circle1.xcor);
+//        System.out.println("Ycor of circle : " + circle1.ycor);
+//        System.out.println("Radius of circle : " + circle1.r);
+//
+//        // calling diff. methods of circle class.
+//        circle1.circumference();   // calling perimeter attributes.
+//        circle1.area();  // calling area method.
+//
+//        // cuboid class starts from here.
+//        System.out.println("Cuboid class =>  ");
+//
+//        Cuboid cuboid = new Cuboid(10, 12, 15); // created an object of type cuboid and set their attribute by using constructor.
+//        // print all attributes of cuboid.
+//        System.out.println("Length of cuboid : " + cuboid.length);
+//        System.out.println("width of cuboid : " + cuboid.width);
+//        System.out.println("height of cuboid : " + cuboid.height);
+//
+//        // call diff. attributes of class cuboid.
+//        cuboid.surface_area(); // calling surface area method.
+//        cuboid.volume(); // calling volume method.
+//
+//        // Point class
+//        System.out.println("Point Class =>  ");
+//        Point p1 = new Point(0, 0); // creating an obj and setting its attributes value by using constructor
+//        System.out.println("Attributes of p1 : ");
+//        p1.show_attributes(); // will show all the attributes of p1 obj.
+//
+//        Point p2 = new Point(1,1); // creating an obj and setting its attributes values by using constructor.
+//        System.out.println("Attributes of p2 : ");
+//        p2.show_attributes(); // will show all the attributes of p2 obj.
+//
+//        // print distance b/w point p1 and p2.
+//        Point.distance(p1, p2);
 
-        // print the attribute value of circle class.
-        System.out.println("Xcor of circle : " + circle1.xcor);
-        System.out.println("Ycor of circle : " + circle1.ycor);
-        System.out.println("Radius of circle : " + circle1.r);
+        // student class starts.
+        System.out.println("\nStudent class => ");
+        // creating an obj and setting their attributes value by using constructor.
+        Student student1 = new Student(1, "Amanjeet", "Kumar", "Programming in Java");
+        student1.show();
 
-        // calling diff. methods of circle class.
-        circle1.circumference();   // calling perimeter attributes.
-        circle1.area();  // calling area method.
-
-        // cuboid class starts from here.
-        System.out.println("Cuboid class =>  ");
-
-        Cuboid cuboid = new Cuboid(10, 12, 15); // created an object of type cuboid and set their attribute by using constructor.
-        // print all attributes of cuboid.
-        System.out.println("Length of cuboid : " + cuboid.length);
-        System.out.println("width of cuboid : " + cuboid.width);
-        System.out.println("height of cuboid : " + cuboid.height);
-
-        // call diff. attributes of class cuboid.
-        cuboid.surface_area(); // calling surface area method.
-        cuboid.volume(); // calling volume method.
-
-        // Point class
-        System.out.println("Point Class =>  ");
-        Point p1 = new Point(0, 0); // creating an obj and setting its attributes value by using constructor
-        System.out.println("Attributes of p1 : ");
-        p1.show_attributes(); // will show all the attributes of p1 obj.
-
-        Point p2 = new Point(1,1); // creating an obj and setting its attributes values by using constructor.
-        System.out.println("Attributes of p2 : ");
-        p2.show_attributes(); // will show all the attributes of p2 obj.
-
-        // print distance b/w point p1 and p2.
-        Point.distance(p1, p2);
+        // creating another student obj and set the attributes by using diff. constructor.
+        Student student2 = new Student(2, "Riya", "Kumari", "Programming in Java", 2000);
+        student2.show();
     }
 }
