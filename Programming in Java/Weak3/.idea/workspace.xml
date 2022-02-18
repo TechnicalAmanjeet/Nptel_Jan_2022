@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee2be14-667d-49a3-9d6c-91cade5258a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Programming_Assignment/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weak3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/QuestionScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/weak3_pa_1$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/Amanjeet/weak3_pa_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Amanjeet/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Amanjeet/Question3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Amanjeet/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Amanjeet/Test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Amanjeet/weak3_pa_1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lecture_Prectice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weak3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +84,23 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Amanjeet.Main" />
-      <module name="untitled104" />
+      <module name="Weak3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Weak3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Weak3" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
