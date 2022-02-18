@@ -83,14 +83,21 @@ public class Main {
 //        // print distance b/w point p1 and p2.
 //        Point.distance(p1, p2);
 
-        // student class starts.
-        System.out.println("\nStudent class => ");
-        // creating an obj and setting their attributes value by using constructor.
-        Student student1 = new Student(1, "Amanjeet", "Kumar", "Programming in Java");
-        student1.show();
+//        // student class starts.
+//        System.out.println("\nStudent class => ");
+//        // creating an obj and setting their attributes value by using constructor.
+//        Student student1 = new Student(1, "Amanjeet", "Kumar", "Programming in Java");
+//        student1.show();
+//
+//        // creating another student obj and set the attributes by using diff. constructor.
+//        Student student2 = new Student(2, "Riya", "Kumari", "Programming in Java", 2000);
+//        student2.show();
 
-        // creating another student obj and set the attributes by using diff. constructor.
-        Student student2 = new Student(2, "Riya", "Kumari", "Programming in Java", 2000);
-        student2.show();
+        // calculator class starts from here.
+        Calculator calc = new Calculator(); // creating an obj of calculator.
+        calc.x = 16; // set the value of x for calc obj.
+        calc.show();
+        System.out.println(calc.square_root);
+//        System.out.println(Math.sqrt(16));
     }
 }
