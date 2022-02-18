@@ -1,0 +1,1 @@
+print("Right thing about the dictionary is that => every key must be unique")
