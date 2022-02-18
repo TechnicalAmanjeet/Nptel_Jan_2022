@@ -9,6 +9,10 @@
       <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +93,9 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Q9">
-    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q5" />
+  <component name="RunManager" selected="Application.Q10">
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q10" />
       <module name="Weak3" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q10" />
         <item itemvalue="Application.Q9" />
         <item itemvalue="Application.Q8" />
         <item itemvalue="Application.Q7" />
         <item itemvalue="Application.Q6" />
-        <item itemvalue="Application.Q5" />
       </list>
     </recent_temporary>
   </component>
