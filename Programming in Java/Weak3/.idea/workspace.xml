@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee2be14-667d-49a3-9d6c-91cade5258a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Lecture_Prectice/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Weak3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Lecture_Prectice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lecture_Prectice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,30 +86,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.Amanjeet.Main" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Q9">
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q5" />
       <module name="Weak3" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q6" />
       <module name="Weak3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q7" />
       <module name="Weak3" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q8" />
+      <module name="Weak3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q9" />
+      <module name="Weak3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q9" />
+        <item itemvalue="Application.Q8" />
+        <item itemvalue="Application.Q7" />
+        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.Q5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -127,5 +186,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

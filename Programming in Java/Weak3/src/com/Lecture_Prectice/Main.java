@@ -93,11 +93,11 @@ public class Main {
 //        Student student2 = new Student(2, "Riya", "Kumari", "Programming in Java", 2000);
 //        student2.show();
 
-        // calculator class starts from here.
-        Calculator calc = new Calculator(); // creating an obj of calculator.
-        calc.x = 16; // set the value of x for calc obj.
-        calc.show();
-        System.out.println(calc.square_root);
+//        // calculator class starts from here.
+//        Calculator calc = new Calculator(); // creating an obj of calculator.
+//        calc.x = 16; // set the value of x for calc obj.
+//        calc.show();
+//        System.out.println(calc.square_root);
 //        System.out.println(Math.sqrt(16));
     }
 }
