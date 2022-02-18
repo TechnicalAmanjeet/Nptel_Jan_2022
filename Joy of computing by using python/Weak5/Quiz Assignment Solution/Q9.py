@@ -1,0 +1,1 @@
+print("Binary search is applicable in any sorted array.")
