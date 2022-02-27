@@ -1,0 +1,1 @@
+print("Recursion decreases the speed of the program.")
