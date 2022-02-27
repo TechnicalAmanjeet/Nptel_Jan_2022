@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aee2be14-667d-49a3-9d6c-91cade5258a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Lecture_Prectice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lecture_Prectice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +18,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q10.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q9.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q8.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/Solving_Quiz_Assignment/Q7.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="25GF063lXuSnCNTVLTE8ioe98tG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

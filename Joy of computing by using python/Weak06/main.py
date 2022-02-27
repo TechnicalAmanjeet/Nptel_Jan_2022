@@ -1,0 +1,1 @@
+print("Starting with weak6")
