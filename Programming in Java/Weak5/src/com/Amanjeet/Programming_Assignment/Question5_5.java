@@ -19,6 +19,7 @@ public class Question5_5 {
                 default:
                     System.out.println("No exception");
             }
+
         }catch (Exception e){
             System.out.println(e);
         }
