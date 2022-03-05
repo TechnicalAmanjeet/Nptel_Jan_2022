@@ -1,0 +1,27 @@
+# Megic Square
+
+# for 3 * 3 matrix
+#  2  7  6
+#  9  5  1
+#  4  3  8
+
+# for 5 * 5 matrix
+#   9  3  22  16  15
+#   2 21  20  14  8
+#  25 19  14   7  1
+#  18 12   2   6  24
+#  11 10   4  23  17
+
+# some facts for making this magic square.
+# sum = (n * ( n^2 + 1 ))/ 2
+
+# steps :
+# 1. in any megic square, 1 will always be located at ( n/2 , n-1 ).
+
+# 2. let's say the position of 1 i.e ( n/2 , n-1 ) is (p,q), then the next number which is 2 is located
+#    at ( p-1 , q+1 ).
+#   anytime if the calculated row positon becomes -1 then make it n-1 and if column position becomes n then
+#   make it 0.
+
+# 3. if the calculated position already contains a number then the decrement the column by 2 and increment row by 1
+#    if anytime row position becomes -1 and columns becomes n, switch it to (0, n-2).
