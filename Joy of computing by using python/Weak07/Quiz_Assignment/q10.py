@@ -1,0 +1,1 @@
+print("Both a and b")
