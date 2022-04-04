@@ -99,5 +99,6 @@ public class Main {
         calc.show();
         System.out.println(calc.square_root);
 //        System.out.println(Math.sqrt(16));
+        System.out.println("done till weak 2");
     }
 }
