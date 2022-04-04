@@ -2,73 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee2be14-667d-49a3-9d6c-91cade5258a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (399).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (400).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (401).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (402).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (403).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (404).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (405).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (406).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (407).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (408).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (409).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (410).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (411).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (412).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (413).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (414).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (415).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (416).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (417).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (418).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (419).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (420).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (421).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (422).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (423).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (424).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (425).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (426).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (427).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (428).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (429).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (430).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (431).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (432).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (433).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (434).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (435).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (436).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (437).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (438).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (439).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (440).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (441).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (442).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (443).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (444).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (445).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (446).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (447).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (448).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (449).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (450).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (451).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (452).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (453).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (454).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (455).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (456).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (457).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (458).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Weak2/screenshots/Screenshot (459).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/Weak5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/Weak5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak06/practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak06/practice/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Weak2/out/production/untitled104/com/Lecture_practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Weak2/out/production/untitled104/com/Lecture_practice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Weak2/src/com/Lecture_practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Weak2/src/com/Lecture_practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Lecture_Prectice/Taking_input_by_using_scanner_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lecture_practice/Taking_input_by_using_scanner_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weak3/com/inheritance/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,9 +101,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Human">
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inheritance.Human" />
+      <module name="Weak3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.inheritance.Main" />
       <module name="Weak3" />
@@ -179,19 +133,6 @@
     </configuration>
     <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q10" />
-      <module name="Weak3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Solving_Quiz_Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Solving_Quiz_Assignment.Q7" />
       <module name="Weak3" />
       <extension name="coverage">
         <pattern>
@@ -231,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Human" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Q10" />
         <item itemvalue="Application.Q9" />
         <item itemvalue="Application.Q8" />
-        <item itemvalue="Application.Q7" />
       </list>
     </recent_temporary>
   </component>
