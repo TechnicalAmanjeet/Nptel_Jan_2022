@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee2be14-667d-49a3-9d6c-91cade5258a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/inheritance/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inheritance/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/Weak5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/Weak5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak05/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Joy of computing by using python/Weak06/practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Joy of computing by using python/Weak06/practice/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Weak3/com/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Weak3/com/inheritance/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

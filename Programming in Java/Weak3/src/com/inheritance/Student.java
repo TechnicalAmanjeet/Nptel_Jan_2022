@@ -15,6 +15,14 @@ public class Student extends Human{
         this.marks = marks;
     }
 
+    public Student(String name, int bom, int bod, int boy, double mobileNumber, boolean gender,
+                   String instituation, int rollNum, int marks) {
+        super(name, bom, bod, boy, mobileNumber, gender);
+        this.instituation = instituation;
+        this.rollNum = rollNum;
+        this.marks = marks;
+    }
+
     void printBioData(){
         super.printData();
         System.out.println("Instituation : " + this.instituation);
