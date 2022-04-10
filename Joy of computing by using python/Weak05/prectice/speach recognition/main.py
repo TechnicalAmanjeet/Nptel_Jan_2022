@@ -42,22 +42,22 @@ with sr.Microphone() as source:
         print("This error has occurred : " + e)
 
 # if we have audio file with us then we can read that audio file as well.
-with sr.AudioFile("audio.wav") as source: # the extension of audio file must be .wav.
-    # because google speech recogniser only work on .wav audio file.
-
-    audio2 = r.record(source)  # will get the data of audio file.
-
-    # now we will convert it into text with exception handling.
-    try:
-        text2 = r.recognize_google(audio2)
-
-        print("Your audio file contains : " + text2)
-
-    except sr.UnknownValueError:
-        print("Google speech recogniser does not understand your audio.")
-
-    except sr.RequestError as e:
-        print("These are the error : " + e)
+# with sr.AudioFile("audio.wav") as source: # the extension of audio file must be .wav.
+#     # because google speech recogniser only work on .wav audio file.
+#
+#     audio2 = r.record(source)  # will get the data of audio file.
+#
+#     # now we will convert it into text with exception handling.
+#     try:
+#         text2 = r.recognize_google(audio2)
+#
+#         print("Your audio file contains : " + text2)
+#
+#     except sr.UnknownValueError:
+#         print("Google speech recogniser does not understand your audio.")
+#
+#     except sr.RequestError as e:
+#         print("These are the error : " + e)
 
 
 
