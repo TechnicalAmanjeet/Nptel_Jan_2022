@@ -9,10 +9,12 @@ def swap(unsorted_list, i, j):
     unsorted_list[j] = temp
 
 
-for i in range(1, len(unsorted_list)):
-    for j in range(i, len(unsorted_list)):
-        if unsorted_list[i-1] > unsorted_list[j]:
-            swap(unsorted_list, i-1, j)
-            print(unsorted_list)
+def selection_sort(unsorted_list):
+    for i in range(1, len(unsorted_list)):
+        for j in range(i, len(unsorted_list)):
+            if unsorted_list[i - 1] > unsorted_list[j]:
+                swap(unsorted_list, i - 1, j)
+                print(unsorted_list)
 
+selection_sort(unsorted_list)
 print(unsorted_list)
