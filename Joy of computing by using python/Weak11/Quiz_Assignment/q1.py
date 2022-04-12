@@ -1,0 +1,1 @@
+print("Selenium librery is used for browser automation.")
