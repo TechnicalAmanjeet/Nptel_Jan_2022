@@ -1,0 +1,1 @@
+print("by using break statement we will come out from loop")
