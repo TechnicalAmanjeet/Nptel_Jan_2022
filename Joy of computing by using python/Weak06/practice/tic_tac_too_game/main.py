@@ -4,6 +4,9 @@ import numpy as np
 
 square_board = np.array([["_", '_', '_'], ["_", '_', '_'], ["_", '_', '_']])
 
+def initalize_square_board():
+    square_board = np.array([["_", '_', '_'], ["_", '_', '_'], ["_", '_', '_']])
+
 
 def print_square_board(square_board):
     """Will print square board on screen."""
@@ -50,6 +53,7 @@ def winner(chance):
 def play():
     """Game  will start from here.."""
     global square_board
+    initalize_square_board()
     p1 = input("Enter player1 name ( will take O ) : ")
     p2 = input("Enter player2 name ( will take * ) :  ")
     chance = 'o'
